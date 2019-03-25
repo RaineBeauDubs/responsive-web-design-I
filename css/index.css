@@ -76,12 +76,15 @@ h1, h2, h3, h4, h5 {
 header {
     width: 100%;
     display: flex;
+    justify-content: space-between;
 }
 
 header nav {
-    margin-top: 40px; 
+    margin-top: 4%; 
+    width: 605px;
     justify-content: space-between;
     display: flex;
+    margin-left: 6.5%;
 }
 
 header nav a {
@@ -92,10 +95,11 @@ header nav a {
 header nav a:hover {
     text-decoration: underline;
     color: black;
+    font-weight: bold;
 }
 
 header .logo {
-    margin: 28px 0 0 91px;
+    margin: 2.8% 5.4%;
 }
 
 /* Call To Action (CTA) Styles */
