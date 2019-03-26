@@ -141,9 +141,9 @@ header .logo {
 .main-content {
    border-top: 2px solid black; 
    border-bottom: 2px solid black;
-   margin: 75px 0 35px 0;
-   padding: 35px 0;
-   font-size: 16px;
+   margin: 7.5% 5.9% 3.5% 6.6%;
+   padding: 3.5% 0;
+   font-size: 15.9px;
    line-height: 18px;
 }
 
@@ -166,6 +166,9 @@ header .logo {
 }
 
 /* Contact Styles */
+.contact {
+    margin-left: 6.5%;
+}
 
 .contact p {
     margin: 15px 0;
@@ -175,7 +178,7 @@ header .logo {
 
 footer {
     text-align: center;
-    margin: 40px 0 20px;
+    margin: 4% 0 1% 1%;
 }
 
 /* Services Styles */
